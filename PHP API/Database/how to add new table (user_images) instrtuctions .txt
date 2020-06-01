@@ -1,0 +1,2 @@
+https://anotepad.com/notes/jw9q3k
+here is the just new database table export sql code you can simply just copy and paste in your database SQL tab
